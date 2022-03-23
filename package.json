@@ -1,0 +1,25 @@
+{
+  "name": "CodeType",
+  "version": "1.0.0",
+  "description": "code typing speed test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yili-liu/CodeType.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yili-liu/CodeType/issues"
+  },
+  "homepage": "https://github.com/yili-liu/CodeType#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "terminal-overwrite": "^2.0.1"
+  }
+}
